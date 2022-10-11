@@ -19,7 +19,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1-React.git
 * Editar el archivo `App.js` con las claves de su Back Office Vendedor
  
 ## 3.- Configurar Claves
-![Claves](src/assets/images/credenciales.png)
+![Claves](images/credenciales.png)
 
 ## 4.- Construir proyecto en producción.
 ```sh
