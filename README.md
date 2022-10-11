@@ -30,4 +30,4 @@ npm run build
 Comprimir la carpeta `build/` que se ha creado con el comando anterior y subirlo a su hosting.
 
 ## 6.- Demo
-![demo](src/assets/images/demo.png)
+![demo](images/demo.png)
