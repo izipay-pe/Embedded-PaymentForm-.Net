@@ -1,6 +1,6 @@
 # Embedded-PaymentForm-T1.Net
 
-Ejemplo del formulario incrustado de Izipay con React.
+Ejemplo del formulario incrustado de Izipay con C# .NET.
 ![pagar](images/pagar.png)
 
 ## Requisitos Previos
