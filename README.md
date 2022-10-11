@@ -5,8 +5,8 @@ Ejemplo del formulario incrustado de Izipay con C# .NET.
 
 ## Requisitos Previos
 
-* Servidor Web que soporte Javascript
-* Node 16.14 o superior
+* Instalar Visual Studio [Aquí](https://visualstudio.microsoft.com/es/)
+* Version de .NET CORE de 3 en adelante
 
 ## 1.- Descargar
 Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-T1-React/archive/refs/heads/main.zip) o clonarlo desde Git.
