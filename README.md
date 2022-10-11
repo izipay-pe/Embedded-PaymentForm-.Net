@@ -21,7 +21,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ## 3.- Configurar Claves
 ![Claves](images/credenciales.png)
 
-## 4.- Obtener Claves
+## 4.- Correr Proyecto
 * IIS Express
 * Correr proyecto con el Explorador Web de su preferencia
 
