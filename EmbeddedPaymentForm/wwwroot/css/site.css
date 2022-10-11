@@ -1,0 +1,27 @@
+﻿.form-izi {
+    width: 340px;
+    height: 440px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 40px -10px #000;
+    margin: calc(50vh - 220px) auto;
+    padding: 20px 30px;
+    max-width: calc(100vw - 40px);
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    position: relative;
+}
+
+
+.kr-popin-button {
+    position: absolute;
+    top: 50%;
+    background-color: red;
+}
+
+.form-izi h3 {
+    color: #FF4240;
+    margin-bottom: 1rem;
+    text-align: center;
+}
