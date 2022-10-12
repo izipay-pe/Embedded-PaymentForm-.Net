@@ -15,7 +15,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ``` 
 
 ## 2.- Obtener Claves
-* Obtener claves de integración, [Ver ejemplo](https://github.com/JunioratWork/Obtener_Credenciales#readme)
+* Obtener claves de integración, [Ver ejemplo](https://github.com/izipay-pe/obtener-credenciales-de-conexion#readme)
 * Editar el archivo `PaymentModel.cs` con las claves de su Back Office Vendedor
  
 ## 3.- Configurar Claves
