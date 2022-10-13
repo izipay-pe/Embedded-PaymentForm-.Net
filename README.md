@@ -2,7 +2,7 @@
 
 Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
 
-![pagar](images/pagar.png)
+                              ![pagar](images/pagar.png)
 
 <a name="Requisitos_Previos"></a>
 
