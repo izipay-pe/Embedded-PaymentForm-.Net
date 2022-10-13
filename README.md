@@ -2,9 +2,9 @@
 
 Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
 
-                                                        ```png
-                                                          ![pagar](images/pagar.png)
-                                                        ```
+```
+  ![pagar](images/pagar.png)
+```                                                      
                                                         
 <a name="Requisitos_Previos"></a>
 
@@ -47,7 +47,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 
 El formulario de pago está listo, puede intentar realizar una transacción utilizando una tarjeta de prueba con la barra de herramientas de depuración (en la parte inferior de la página).
 
-    ![tarjeta](images/tajetaprueba.png)
+  ![tarjeta](images/tajetasprueba.png)
 
 Para obtener más información, eche un vistazo a:
 
