@@ -34,7 +34,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
         //URL de servidor de IZIPAY
         private const string _servidor_API = "https://api.micuentaweb.pe/";
 
-``` }
+``` 
 ![Claves](images/credenciales.png)
 
 ## 4.- Correr Proyecto
