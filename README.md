@@ -12,13 +12,13 @@ Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el 
 * Version de .NET CORE de 3 en adelante
 * Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 
-## 1.- Descargar
+## 1.- Crear el proyecto
 Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
 ```sh
 git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ``` 
 
-## 2.- Obtener Claves
+## 2.- Obtener Claves 
 * Obtener claves de integración, [Ver ejemplo](https://github.com/izipay-pe/obtener-credenciales-de-conexion#readme)
  
 ## 3.- Configurar claves
@@ -39,10 +39,14 @@ public class PaymentModel
 * IIS Express
 * Correr proyecto con el comando F5 desde la Vista Home `Index.cshtml` con el Explorador Web de su preferencia
 
-## 5.- Demo
-![demo](images/demo.png)
-
-## 6.- Implementar IPN
+## 5.- Implementar IPN
 
 * Ver manual de implementacion de la IPN [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html)
-* Ver el ejemplo de la respuesta IPN [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP)
+
+* Ver el ejemplo de la respuesta IPN con PHP [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP)
+
+* Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn)
+
+## 6.- Ejemplo de formulario
+Ver el ejemplo
+![demo](images/demo.png)
