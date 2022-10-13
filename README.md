@@ -22,7 +22,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ## 3.- Configurar claves
 * Obtener claves de API REST desde guía de integración ver [Requisitos Previos](#Requisitos_Previos).
 * Editar el archivo `PaymentModel.cs` con las claves de su Back Office Vendedor
-```html
+```public class PaymentModel{
         //Usuario
         private const string _usuario = "XXXXXXXXXXXXXXXXX";
         //Clave API REST de TEST o PRODUCCIÓN
@@ -34,7 +34,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
         //URL de servidor de IZIPAY
         private const string _servidor_API = "https://api.micuentaweb.pe/";
 
-``` 
+``` }
 ![Claves](images/credenciales.png)
 
 ## 4.- Correr Proyecto
