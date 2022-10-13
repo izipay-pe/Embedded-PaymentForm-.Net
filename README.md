@@ -8,9 +8,9 @@ Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el 
 
 ## Requisitos Previos
 
+* Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 * Instalar Visual Studio [Aquí](https://visualstudio.microsoft.com/es/)
 * Version de .NET CORE de 3 en adelante
-* Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 
 ## 1.- Crear el proyecto
 Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
