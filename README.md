@@ -36,11 +36,21 @@ public class PaymentModel
      }
 ```
 
-## 4.- Correr Proyecto
-* IIS Express
-* Correr proyecto con el comando F5 desde la Vista Home `Index.cshtml` con el Explorador Web de su preferencia
+## 3) Transacción de prueba
 
-## 5.- Implementar IPN
+El formulario de pago está listo, puede intentar realizar una transacción utilizando una tarjeta de prueba con la barra de herramientas de depuración (en la parte inferior de la página).
+
+Si intenta pagar, tendrá el siguiente error: **CLIENT_998: Demo form, see the documentation**.
+Es porque el **formToken** que ha definido usando **KR.setFormConfig** está configurado en **DEMO-TOKEN-TO-BE-REPLACED**.
+
+you have to create a **formToken** before displaying the payment form using Charge/CreatePayment web-service.
+For more information, please take a look to:
+
+- [Formulario incrustado: prueba rápida](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/quick_start_js.html)
+- [Primeros pasos: pago simple](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/guide/start.html)
+- [Servicios web - referencia de la API REST](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/reference.html)
+ 
+## 4.- Implementar IPN
 
 * Ver manual de implementacion de la IPN [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html)
 
@@ -48,6 +58,6 @@ public class PaymentModel
 
 * Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn)
 
-## 6.- Ejemplo de formulario
+## 5.- Ejemplo de formulario
 
 ![demo](images/demo.png)
