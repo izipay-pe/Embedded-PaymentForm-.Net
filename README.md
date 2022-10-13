@@ -17,7 +17,8 @@ Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/E
 ```sh
 git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ``` 
-* Correr con IIS Express de manera Local con el comando F5 desde la Vista Home `Index.cshtml` y abrira con su navegador web predeterminado
+* Correr con IIS Express de manera Local 
+* Ejecútelo y pruébelo con el siguiente comando:`F5` desde la Vista `Home` `Index.cshtml` y abrira con su navegador web predeterminado
 
 ver el resultado en: "https://localhost:44345/"
 
