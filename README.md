@@ -37,7 +37,7 @@ public class PaymentModel
 
 ## 4.- Correr Proyecto
 * IIS Express
-* Correr proyecto con el Explorador Web de su preferencia
+* Correr proyecto con el comando F5 desde la Vista Home `Index.cshtml` con el Explorador Web de su preferencia
 
 ## 5.- Demo
 ![demo](images/demo.png)
