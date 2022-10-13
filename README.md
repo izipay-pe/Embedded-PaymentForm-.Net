@@ -34,7 +34,6 @@ public class PaymentModel
         private const string _servidor_API = "https://api.micuentaweb.pe/";
      }
 ``` 
-![Claves](images/credenciales.png)
 
 ## 4.- Correr Proyecto
 * IIS Express
