@@ -4,6 +4,8 @@ Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el 
 
 ![pagar](images/pagar.png)
 
+<a name="Requisitos_Previos"></a>
+
 ## Requisitos Previos
 
 * Instalar Visual Studio [Aquí](https://visualstudio.microsoft.com/es/)
@@ -22,16 +24,11 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ## 3.- Configurar claves
 * Obtener claves de API REST desde guía de integración ver [Requisitos Previos](#Requisitos_Previos).
 * Editar el archivo `PaymentModel.cs` con las claves de su Back Office Vendedor
-```public class PaymentModel{
-        //Usuario
-        private const string _usuario = "XXXXXXXXXXXXXXXXX";
-        //Clave API REST de TEST o PRODUCCIÓN
-        private const string _contraseña = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-        //Clave JavaScript de TEST o PRODUCCIÓN
-        private const string _clave_JS = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-        //Clave HMAC-SHA-256 de TEST o PRODUCCIÓN
-        private const string _clave_SHA256 = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-        //URL de servidor de IZIPAY
+```   
+        private const string _usuario = "~~CHANGE_ME_USER~~";
+        private const string _contraseña = "~~CHANGE_ME_KEY~~";
+        private const string _clave_JS = "~~CHANGE_ME_PUBLIC_KEY~~";
+        private const string _clave_SHA256 = "~~CHANGE_ME_KEY_HMAC-SHA-256~~";
         private const string _servidor_API = "https://api.micuentaweb.pe/";
 
 ``` 
