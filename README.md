@@ -39,10 +39,10 @@ public class PaymentModel
 * IIS Express
 * Correr proyecto con el Explorador Web de su preferencia
 
-## 5.- Implementar IPN
+## 5.- Demo
+![demo](images/demo.png)
+
+## 6.- Implementar IPN
 
 * Ver manual de implementacion de la IPN [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html)
 * Ver el ejemplo de la respuesta IPN [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP)
-
-## 6.- Demo
-![demo](images/demo.png)
