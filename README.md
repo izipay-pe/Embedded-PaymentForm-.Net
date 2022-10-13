@@ -29,16 +29,16 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 
   ![ruta](images/ruta.png)
 
-```c#   
-public class PaymentModel
-    {
-        private const string _usuario = "~~CHANGE_ME_USER~~";
-        private const string _contraseña = "~~CHANGE_ME_KEY~~";
-        private const string _clave_JS = "~~CHANGE_ME_PUBLIC_KEY~~";
-        private const string _clave_SHA256 = "~~CHANGE_ME_KEY_HMAC-SHA-256~~";
-        private const string _servidor_API = "https://api.micuentaweb.pe/";
-     }
-```
+  ```c#   
+  public class PaymentModel
+      {
+          private const string _usuario = "~~CHANGE_ME_USER~~";
+          private const string _contraseña = "~~CHANGE_ME_KEY~~";
+          private const string _clave_JS = "~~CHANGE_ME_PUBLIC_KEY~~";
+          private const string _clave_SHA256 = "~~CHANGE_ME_KEY_HMAC-SHA-256~~";
+          private const string _servidor_API = "https://api.micuentaweb.pe/";
+       }
+  ```
 
 * Correr con IIS Express de manera Local 
 * Ejecútelo y pruébelo con el siguiente comando: `F5` desde la Vista `Home` `Index.cshtml` y abrira con su navegador web predeterminado
