@@ -13,7 +13,7 @@ Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el 
 * Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 
 ## 1.- Descargar
-Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-T1-React/archive/refs/heads/main.zip) o clonarlo desde Git.
+Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
 ```sh
 git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ``` 
