@@ -49,6 +49,5 @@ public class PaymentModel
 * Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn)
 
 ## 6.- Ejemplo de formulario
-Ver el ejemplo
 
 ![demo](images/demo.png)
