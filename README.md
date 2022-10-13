@@ -27,7 +27,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 
 * Editar el archivo en la siguiente ruta `EmbeddedPaymentForm -> Models -> PaymentModel.cs` con las claves de su Back Office Vendedor
 
-                                                 ![ruta](images/ruta.png)
+  ![ruta](images/ruta.png)
 
 ```c#   
 public class PaymentModel
