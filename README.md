@@ -36,6 +36,10 @@ public class PaymentModel
         private const string _servidor_API = "https://api.micuentaweb.pe/";
      }
 ```
+(esta nota debe ir personalizada segun lo que quieren indicar, la parte de "[Requisitos Previos](#Requisitos_Previos)" que cuando le dean click se vaya a ese punto con esto <a name="Requisitos_Previos"></a>)
+**Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
+
+* Poner los demas pasos para poder probar de manera local, lo pasos que sean necesarios.
 
 ## 3.- Transacción de prueba
 
