@@ -21,7 +21,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 
 ver el resultado en: "https://localhost:44345/"
 
-## 2.- Punto 2 debe ir los cambios que necesita para ejecutar el proyecto, cambiar claves de acceso y demas 
+## 2.- Ejecutar el proyecto, cambiar claves de acceso y demas 
 * Obtener claves de integración, [Ver ejemplo](https://github.com/izipay-pe/obtener-credenciales-de-conexion#readme)
 * Obtener claves de API REST desde guía de integración ver [Requisitos Previos](#Requisitos_Previos).
 * Editar el archivo `PaymentModel.cs` con las claves de su Back Office Vendedor
