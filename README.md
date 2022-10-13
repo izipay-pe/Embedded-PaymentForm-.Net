@@ -17,6 +17,16 @@ Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/E
 ```sh
 git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ``` 
+* (Poner los demas pasos para poder probar de manera local, lo pasos que sean necesarios).
+
+* Ejecútelo y pruébelo con el siguiente comando:
+
+```sh
+* Correr con IIS Express
+* Correr proyecto con el comando F5 desde la Vista Home `Index.cshtml` con el Explorador Web de su preferencia
+```
+
+ver el resultado en: "https://localhost:44345/"
 
 ## 2.- Obtener Claves 
 * Obtener claves de integración, [Ver ejemplo](https://github.com/izipay-pe/obtener-credenciales-de-conexion#readme)
@@ -49,4 +59,5 @@ public class PaymentModel
 
 ## 6.- Ejemplo de formulario
 Ver el ejemplo
+
 ![demo](images/demo.png)
