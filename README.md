@@ -24,13 +24,10 @@ ver el resultado en: "https://localhost:44345/"
 
 ## 2.- Ejecutar el proyecto, cambiar claves de acceso y demas 
 
-Obtener claves de integración  "[Requisitos Previos](#Requisitos_Previos)" que cuando le dean click se vaya a ese punto con esto <a name="Requisitos_Previos"></a>)
+Obtener credenciales del Back Office Vendedor  "[Requisitos Previos](#Requisitos_Previos)" <a name="Requisitos_Previos"></a>)
+
 **Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
-* Poner los demas pasos para poder probar de manera local, lo pasos que sean necesarios.
-
-* Obtener claves de integración, [Ver ejemplo](https://github.com/izipay-pe/obtener-credenciales-de-conexion#readme)
-* Obtener claves de API REST desde guía de integración ver [Requisitos Previos](#Requisitos_Previos).
 * Editar el archivo `PaymentModel.cs` con las claves de su Back Office Vendedor
 ```c#   
 public class PaymentModel
@@ -42,10 +39,9 @@ public class PaymentModel
         private const string _servidor_API = "https://api.micuentaweb.pe/";
      }
 ```
-(esta nota debe ir personalizada segun lo que quieren indicar, la parte de "[Requisitos Previos](#Requisitos_Previos)" que cuando le dean click se vaya a ese punto con esto <a name="Requisitos_Previos"></a>)
-**Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
-* Poner los demas pasos para poder probar de manera local, lo pasos que sean necesarios.
+* Correr con IIS Express de manera Local 
+* Ejecútelo y pruébelo con el siguiente comando: `F5` desde la Vista `Home` `Index.cshtml` y abrira con su navegador web predeterminado
 
 ## 3.- Transacción de prueba
 
