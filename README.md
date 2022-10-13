@@ -45,4 +45,4 @@ public class PaymentModel
 * Ver el ejemplo de la respuesta IPN [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP)
 
 ## 6.- Demo
-<img align="right" alt="GIF" src="./incrustado.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="images/incrustado.gif" width="500" height="320" />
