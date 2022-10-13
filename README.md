@@ -36,7 +36,7 @@ public class PaymentModel
      }
 ```
 
-## 3) Transacción de prueba
+## 3.- Transacción de prueba
 
 El formulario de pago está listo, puede intentar realizar una transacción utilizando una tarjeta de prueba con la barra de herramientas de depuración (en la parte inferior de la página).
 
