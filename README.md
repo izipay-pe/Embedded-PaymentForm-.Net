@@ -47,6 +47,8 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 
 El formulario de pago está listo, puede intentar realizar una transacción utilizando una tarjeta de prueba con la barra de herramientas de depuración (en la parte inferior de la página).
 
+    ![tarjeta](images/tajetaprueba.png)
+
 Para obtener más información, eche un vistazo a:
 
 - [Formulario incrustado: prueba rápida](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/quick_start_js.html)
