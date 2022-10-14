@@ -60,7 +60,3 @@ Para obtener más información, eche un vistazo a:
 * Ver el ejemplo de la respuesta IPN con PHP [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP)
 
 * Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn)
-
-## 5.- Ejemplo de formulario
-
-![demo](images/demo2.png)
