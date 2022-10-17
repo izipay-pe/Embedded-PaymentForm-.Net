@@ -22,7 +22,7 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 
   ver el resultado en: "https://localhost:44345/"
 
-## 2.- Ejecutar el proyecto, cambiar claves de acceso y demas 
+## 2.- Configurar datos de conexión
 
 **Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
