@@ -7,7 +7,7 @@ Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el 
  </p>                                               
  
  
- ## Este es un ejemplo de como poder integrar un formulario embebido utilizando el framework "nombre de tu tecnología". Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
+ ## Este es un ejemplo de como poder integrar un formulario embebido utilizando el Lenguaje de Programación C# con el Framework .NET. Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
  
  
 <a name="Requisitos_Previos"></a>
