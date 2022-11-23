@@ -14,7 +14,7 @@ Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el 
 
 ## Requisitos Previos
 
-* Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
+* Acceso al Back Office Vendedor (BOV) y Claves de autenticación. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 * Instalar Visual Studio [Aquí](https://visualstudio.microsoft.com/es/)
 * Version de .NET CORE de 3 en adelante
 
