@@ -67,7 +67,6 @@ Para obtener más información, eche un vistazo a:
      * la contraseña de producción,
      * clave pública de producción,
      * la clave HMAC-SHA-256 de producción para calcular la firma contenida en el campo kr-hash.
-     * Ingrese correctamente la URL de notificación al final del pago en modo PRODUCTION en el menú Configuración > Reglas de notificación .
      
      Modifique su implementación para utilizar redireccion:
      Complete el campo vads_ctx_mode a PRODUCTION .
