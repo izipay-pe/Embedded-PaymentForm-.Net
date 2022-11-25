@@ -1,4 +1,4 @@
-# Embedded-PaymentForm-T1.Net
+# Embedded-PaymentForm.Net
 
 Ejemplo del formulario incrustado, para utilizar la librería Require.js dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona ya que mejorará la velocidad y la calidad de su código.
 
