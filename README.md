@@ -22,9 +22,9 @@ C# es un lenguaje de programación multiparadigma y muy sofisticado que ha evolu
 * Version de .NET CORE de 3 en adelante
 
 ## 1.- Crear el proyecto
-Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
+Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
 ```sh
-git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
+git clone https://github.com/izipay-pe/Embedded-PaymentForm.Net.git
 ``` 
 * Correr con IIS Express de manera Local 
 * Ejecútelo y pruébelo con el siguiente comando: `F5` desde la Vista `Home` `Index.cshtml` y abrira con su navegador web predeterminado
