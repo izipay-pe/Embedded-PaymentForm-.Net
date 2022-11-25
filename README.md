@@ -1,8 +1,6 @@
 # Embedded-PaymentForm.Net
 
-Ejemplo del formulario incrustado, para utilizar C# .NET dentro de tu proyecto, te permitirá hacer un énfasis en la transparencia de redes, con independencia de plataforma de hardware y que permite un rápido desarrollo de aplicaciones.
-
-C# es un lenguaje de programación multiparadigma y muy sofisticado que ha evolucionado en conjunto con el framework de Microsoft .NET. Tiene nuevas características, como tipos por referencia nullables, rangos, índices, streams asíncronos.
+Ejemplo del formulario incrustado, para utilizar el Lenguaje de Programación C# con el Framework .NET de Microsoft dentro de tu proyecto. C# es un lenguaje de programación multiparadigma y muy sofisticado que ha evolucionado en conjunto con el framework de Microsoft .NET. Tiene nuevas características, como tipos por referencia nullables, rangos, índices, streams asíncronos.
 
 
    <p align="center">
@@ -10,7 +8,7 @@ C# es un lenguaje de programación multiparadigma y muy sofisticado que ha evolu
  </p>                                               
  
  
- ## Este es un ejemplo de como poder integrar un formulario embebido utilizando el Lenguaje de Programación C# con el Framework .NET. Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
+ ## Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
  
  
 <a name="Requisitos_Previos"></a>
@@ -88,7 +86,7 @@ Para obtener más información, eche un vistazo a:
    | URL de base  | https://api.micuentaweb.pe |
    | URL para el cliente JavaScript | https://static.micuentaweb.pe/static/js/krypton-client/V4.0/stable/kr-payment-form.min.js  |
 
-## 4.- Implementar IPN
+## 4.- Gestionar la notificacion de fin de pago (IPN)
 
 IPN son las siglas de Instant Payment Notification (URL de notificación instantánea, en inglés). Al crear una transacción o cambiar su estado, nuestros servidores emitirán una IPN que llamará a una URL de notificación en sus servidores. Esto le permitirá estar informado en tiempo real de los cambios realizados en una transacción.
 
