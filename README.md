@@ -1,6 +1,12 @@
 # Embedded-PaymentForm-T1.Net
 
-Ejemplo del formulario incrustado de Izipay con C# .NET, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
+Ejemplo del formulario incrustado, para utilizar la librería Require.js dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona ya que mejorará la velocidad y la calidad de su código.
+
+C# es un lenguaje de programación multiparadigma y muy sofisticado que ha evolucionado en conjunto con el framework de Microsoft .NET. Tiene nuevas características, como tipos por referencia nullables, rangos, índices, streams asíncronos.
+
+de Izipay con C# .NET, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
+
+
 
    <p align="center">
   <img src="images/formulario-incrustado.png?raw=true" alt="Formulario"/>                                             
